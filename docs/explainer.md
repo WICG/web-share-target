@@ -17,7 +17,7 @@ project](https://github.com/chromium/ballista), which aims to explore
 website-to-website and website-to-native interoperability.
 
 See also:
-* [Specification](https://w3c.github.io/web-share-target/).
+* [Specification](https://wicg.github.io/web-share-target/).
 * [Native integration survey](native.md), for platform-specific matters.
 
 ## User flow
